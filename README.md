@@ -22,7 +22,7 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 ```
-set your environment variables in the `.env` file . like `OPINAI_API_KEY`,,,,.
+set your environment variables in the `.env` file . like `OPINAI_API_KEY`,,,,,.
 
 ## run the FastApi server 
 ```bash
