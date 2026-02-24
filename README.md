@@ -22,8 +22,12 @@ pip install -r requirements.txt
 ```bash
 cp .env.example .env
 ```
-set your environment variables in the `.env` file . like `OPINAI_API_KEY`,,,,.
+set your environment variables in the `.env` file . like `OPINAI_API_KEY`,,,,,.
 
+## run the FastApi server 
+```bash
+uvicorn main:app --reload --reload --host 0.0.0.0 --port 5000
+```
 
 
 
