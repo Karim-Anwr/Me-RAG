@@ -1,5 +1,5 @@
 # Me-RAG
-This project combines **retrieval-based methods** with **large language models (LLMs)** to provide accurate answers to mathematical and equation-based queries. The RAG model searches relevant context from a knowledge base and generates precise responses.
+This project combines **retrieval-based methods** with **large language models (LLM)** to provide accurate answers to mathematical and equation-based queries. The RAG model searches relevant context from a knowledge base and generates precise responses.
 
 ##  Installation
 Make sure you have **Python 3.8** installed.  
